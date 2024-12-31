@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "KS",
+      "email": "ks@gmail.com",
+      "description": "KS is a software engineer with over 5 years of experience in building scalable web applications."
+    },
+    {
+      "id": 2,
+      "name": "SR",
+      "email": "sr@gmail.com",
+      "description": "SR is a back-end developer specializing in java based development."
+    },
+    {
+      "id": 3,
+      "name": "KSR",
+      "email": "ksr@gmail.com",
+      "description": "ksr is a full-stack developer over 2 years of experience."
+    }
+  ]
+  
